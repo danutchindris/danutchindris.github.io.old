@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Despre
+title: despre
 permalink: /about/
 ---
 

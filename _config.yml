@@ -16,7 +16,7 @@
 title: lejero
 email: contact@leje.ro
 description: >- # this means to ignore newlines until "baseurl:"
-  Subiecte de programare explicate pe intelesul tuturor, adica lejero
+  programare pe intelesul tuturor, adica lejero
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://leje.ro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: danutchindris
